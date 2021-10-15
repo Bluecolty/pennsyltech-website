@@ -1,0 +1,67 @@
+/* main.css for homepage */
+
+@font-face {
+    font-family: 'goboldregular';
+    src: url('gobold_regular-webfont.woff2') format('woff2'),
+         url('gobold_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'headingpro';
+    src: url('headingprobook.woff2') format('woff2'),
+        url('headingprobook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.bodypara {
+    width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: white;
+	box-shadow: 10px black;
+	border: 20px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.topnav {
+overflow: hidden;
+background-color: #666666;
+font-family:headingpro;
+}
+
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+text-decoration: none;
+font-size: 30px;
+font-family:headingpro;
+padding: 1.5% 3.5% 1.5% 3.5%;
+}
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+font-family:headingpro;
+}
+
+.topnav a.active {
+background-color: #3399cc;
+color: white;
+font-family:headingpro;
+}
+
+.footing {
+    font-size: 18px;
+    text-align: center;
+}
+
+/* main.css for homepage */
