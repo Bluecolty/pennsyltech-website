@@ -1,0 +1,33 @@
+/*homepage css documenet*/
+.navbarcolor {
+    background-color: #4A4A4A
+}
+
+.footerstyle {
+    text-align: center;
+    font-size: 12px;
+    padding: 3%;
+}
+
+.background {
+    background-color: #3782B8;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
+
+.bodybackground {
+    background-color: white;
+    box-shadow: 0px 0px 5px black;
+}
+
+.paragraphformat {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+/*for heading 6*/
+.headingformat {
+    padding-left: 5%;
+    padding-right: 5%;
+}
